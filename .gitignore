@@ -1,6 +1,11 @@
 # Build Folders (you can keep bin if you'd like, to store dlls and pdbs)
 bin
 obj
-
-# mstest test results
-TestResults
+packages
+_ReSharper.*
+*.resharper.user
+*.ReSharper.user
+*.TeamCity.user
+*.DotSettings.user
+*.suo
+*.csproj.user
